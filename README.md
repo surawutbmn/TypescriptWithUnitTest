@@ -26,8 +26,10 @@ function merge(collection_1: number[], collection_2: number[]): number[] {
     }
     return mergedCollection;
 }
+//run npm install -g typescript
 // run tsc merge.ts
 // add module.exports = merge; to bottom of merge.js file
+//to execute add console.log() then run node merge.js
 
 //test file merge.test.js
 const merge = require('./merge')
@@ -58,4 +60,6 @@ describe("merge", () => {
 });
 
 //run npm init -y then run npm i --save-dev jest
+//run npm install
+//run npm run test
 //dependecies jest
