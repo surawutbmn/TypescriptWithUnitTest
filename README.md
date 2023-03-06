@@ -4,7 +4,6 @@
 
 function merge(collection_1: number[], collection_2: number[]): number[] {
     const mergedCollection: number[] = [];
-
     let index1 = 0;
     let index2 = 0;
 
