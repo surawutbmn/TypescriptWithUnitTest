@@ -1,4 +1,4 @@
-# typescriptWunitTest
+# TypescriptWithUnitTest
 
 //typescript file (merge.ts)
 
